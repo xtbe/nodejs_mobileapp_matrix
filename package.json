@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.26.0",
+    "axios": "^1.6.0",
     "dotenv": "^8.2.0",
     "follow-redirects": "^1.14.8"
   }
